@@ -1,5 +1,6 @@
 !include charter.ledger
 !include ./members/members.ledger
+!include ./agreements/agreements.ledger
 ; BEGIN Chart of Accounts
 ; END Chart of Accounts
 !include block.ledger

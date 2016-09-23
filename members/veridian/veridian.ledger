@@ -1,0 +1,21 @@
+account m:veridian
+    note pubkey
+    assert commodity =~ /^XP|XTM$/
+
+account m:veridian:Experience
+    assert commodity == "XP"
+
+account v:Member:veridian
+    assert commodity == "XP"
+
+account m:veridian:v:Member:veridian
+    assert commodity == "XP"
+
+= expr ( account == 'Experience' )
+    v:Member:veridian                (MEMBER_VOTES)
+    OffsetVotes                   (-MEMBER_VOTES)
+
+
+= expr ( account == 'm:veridian:Experience' )
+    v:Member:veridian                  1.0
+    m:veridian:v:Member:veridian            -1.0
