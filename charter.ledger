@@ -1,0 +1,38 @@
+; BEGIN Vote Rules
+define FORK_VOTES=1.00000000
+define CHARTER_VOTES=0.90000000
+define SIDECHAIN_VOTES=0.75000000
+define DEVELOPER_VOTES=0.66000000
+define MARKETER_VOTES=0.66000000
+define ADMINISTRATOR_VOTES=0.66000000
+define AUDITOR_VOTES=0.66000000
+define COUNCIL_VOTES=0.66000000
+define AGREEMENT_VOTES=0.66000000
+define MEMBER_VOTES=0.51000000
+define BORROWER_VOTES=0.51000000
+; END Vote Rules
+
+; BEGIN Assets
+account Assets
+    note The Guild Treasury
+    alias Treasury
+
+account Liabilities
+    note The Guild issues XTM from this account
+    alias Printing Press
+    ; assert commodity == "XTM"
+
+account Experience
+    note The Guild's Experience issuing account
+    alias Ignorance
+    assert commodity == "XP"
+
+account OffsetVotes
+    note Offset XP created for enforcing the vote rules
+    ; assert commodity == "XP"
+
+commodity XP
+   note Experience Points are non-transferable, reusable voting tokens
+   format 1,000.00000000 XP
+   nomarket
+; END Assets

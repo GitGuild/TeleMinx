@@ -1,0 +1,21 @@
+account m:isysd
+    note 5C3586F6
+    assert commodity =~ /^XP|XTM$/
+
+account m:isysd:Experience
+    assert commodity == "XP"
+
+account v:Member:isysd
+    assert commodity == "XP"
+
+account m:isysd:v:Member:isysd
+    assert commodity == "XP"
+
+= expr ( account == 'Experience' )
+    v:Member:isysd                (MEMBER_VOTES)
+    OffsetVotes                   (-MEMBER_VOTES)
+
+
+= expr ( account == 'm:isysd:Experience' )
+    v:Member:isysd                  1.0
+    m:isysd:v:Member:isysd            -1.0
