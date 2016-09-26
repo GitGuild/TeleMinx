@@ -76,6 +76,7 @@ The ICO is scheduled in sync with the code releases, and upon completing the ICO
   * buy/sell DASH for CCUSD
 
 **Funds Flow**
+
 1. DASH owner decides to participate in TeleMinx ICO.
   * DASH owner places an ask or market order on the CCUSD/DASH GuildExchange.
   * CCUSD owner (DASH buyer) places a bid or market order on the CCUSD/DASH Guild Exchange.
