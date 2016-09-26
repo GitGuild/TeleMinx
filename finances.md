@@ -87,7 +87,7 @@ The ICO is scheduled in sync with the code releases, and upon completing the ICO
 3. XTM owners vote to approve borrower for loan offering.
 4. TeleMinx Administrator authorizes USD SWIFT wire from TeleMinx CryptoCapital account to TeleMinx bank account.[1]
 5. TeleMinx Administrator authorizes USD SWIFT wire from TeleMinx bank account to the Borrower's bank account for the sum of the loan principal.
-6. The Borrower authorizes USD SWIFT wire from the Borrower's bank account to TeleMinx's bank account.
+6. The Borrower authorizes USD SWIFT wire from the Borrower's bank account to TeleMinx's bank account for sum of interest owed.
 7. The TeleMinx admin authorizes USD SWIFT wire from TeleMinx's bank account to TeleMinx's CryptoCapital account.
 8. The TeleMinx admin signs CCUSD transactions to disburse dividends to XTM token owners.
 9. (optional) XTM token owner(s) convert CCUSD to DASH via CCUSD/DASH GuildExchange.
