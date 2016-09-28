@@ -74,46 +74,37 @@ Utilisation of the GuildExchange for the ICO will enable efficient capital sourc
 **Roles**
 + The Borrower
 + TeleMinx Administrator
-+ TeleMinx Buyer (initially holds DASH)
-+ DASH buyer
++ TeleMinx Buyer
 
-**Cash/Accounts**
-+ Borrower bank account
-  * send/receive SWIFT USD
-+ TeleMinx bank account
-  * send/receive SWIFT USD
+**Tokens, Accounts**
++ CCUSD
+  * CryptoCapital USD token issued on Gitguild Blockchain Protocol
++ XTM 
+  * TeleMinx token issued on Gitguild Blockchain Protocol
++ Borrower CryptoCapital account
+  * send/receive CCUSD
+  * send 1st party wires to fund operations
 + TeleMinx CryptoCapital account
-  * send/receive SWIFT USD (first party wire only)
   * send/receive CCUSD (CyptoCapital USD token)
-+ DASH
-  * Digital Cash (spending controled by key owner, no account)
 + CCUSD/XTM GuildExchange
   * buy/sell XTM for CCUSD
-+ CCUSD/DASH GuildExchange
-  * buy/sell DASH for CCUSD
 
 **Funds Flow**
 
-1. DASH owner decides to participate in TeleMinx ICO.
-  * DASH owner places an ask or market order on the CCUSD/DASH GuildExchange.
-  * CCUSD owner (DASH buyer) places a bid or market order on the CCUSD/DASH Guild Exchange.
-  * the orders cross, the CCUSD owner is now a DASH owner and the DASH owner is now a CCUSD owner.
-2. TeleMinx places ask orders at various prices on the CCUSD/XTM orderbook.
-  * CCUSD owner places a market order on the CCUSD/XTM GuildExchange.
+1. TeleMinx places ask orders at various prices on the CCUSD/XTM orderbook.
+2. CCUSD owner places a market order on the CCUSD/XTM GuildExchange.
   * TeleMinx becomes a CCUSD owner and CCUSD owner becomes a XTM owner.
 3. XTM owners vote to approve borrower for loan offering.
-4. TeleMinx Administrator authorizes USD SWIFT wire from TeleMinx CryptoCapital account to TeleMinx bank account.[1]
-5. TeleMinx Administrator authorizes USD SWIFT wire from TeleMinx bank account to the Borrower's bank account for the sum of the loan principal.
-6. The Borrower authorizes USD SWIFT wire from the Borrower's bank account to TeleMinx's bank account for sum of interest owed.
-7. The TeleMinx admin authorizes USD SWIFT wire from TeleMinx's bank account to TeleMinx's CryptoCapital account.
+4. TeleMinx Administrator signs CCUSD transaction to Borrower for the sum of the loan principal.
+5. Borrower withdraws CCUSD to fund business operation.
+6. Borrower deposits CCUSD as required to service loan interest.
+7. Borrower signs CCUSD transaction to TeleMinx for the sum of the loan interest.
 8. The TeleMinx admin signs CCUSD transactions to disburse dividends to XTM token owners.
-9. (optional) XTM token owner(s) convert CCUSD to DASH via CCUSD/DASH GuildExchange.
-
-[1] This step is required because CryptoCapital does not support 3rd party wires.
 
 **Funds Flow Illustrated**
 
 An illustration of the example flow of funds.
 
-![Funds Flow Example](http://i.imgur.com/LWwfrvK.png)
+![Funds Flow Example](http://i.imgur.com/rEPvKWJ.png)
+
 
