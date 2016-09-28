@@ -8,16 +8,24 @@ TeleMinx will raise funds by issuing a crypto token (XTM) backed by USD denomina
 
 ### Governance
 
-The TeleMinx Token Holders will hold ultimate decision power over allocation of funds, including the issuance and destruction of XTM tokens, approving all roles, including Borrowers, and setting lending policies.
+The TeleMinx Token Holders hold ultimate decision power over allocation of funds.
 
-Voting will be done via the GitGuild Blockchain protocol. The following votes are expected as a minimum functional set.
+Voting is executed via the GitGuild Blockchain protocol.
 
-+ Elect one Person or Corporation to each of the following roles: Administrator, Auditor, Council, Developer, Marketer
-+ Vote yes or no on a Borrower application
-+ Vote to issue new fixed tranche of XTM
-+ Vote to initialize buy back of fixed tranche of XTM
+XTM Token Holders vote on the following categories of decisions:
 
-Each vote will be considered legally binding by the Bylaws of the TeleMinx Foundation, and is to be put into action immediately.
++ Operational Roles
+  + Administrator
+  + Auditor
+  + Council
+  + Developer
+  + Marketer
++ Borrower Applications
++ XTM supply
+  + issue a new fixed tranche of XTM
+  + initialize a buy back of a fixed tranche of XTM
+  
+Each vote is considered legally binding by the Bylaws of the TeleMinx Foundation, and is to be put into action immediately.
 
 ### Roles
 
@@ -29,7 +37,7 @@ Each vote will be considered legally binding by the Bylaws of the TeleMinx Found
 + Marketer
 + Borrower
 
-*Token Holders* are parties in control of the XTM tokens. These tokens have proportional voting rights, and be entitled to proportional dividends.
+*Token Holders* are parties in control of the XTM tokens. These tokens have proportional voting rights, and are entitled to proportional dividends.
 
 *The Administrator* is legally and fiscally responsible for managing the fund's lending and distribution operations.
 
@@ -39,7 +47,7 @@ Each vote will be considered legally binding by the Bylaws of the TeleMinx Found
 
 *The Developer* is responsible for creating and maintaining the TeleMinx smart contract, website, and ICO portal.
 
-*The Marketer* creates the TeleMinx brand, create branded content, and manage advertising and social media campaigns.
+*The Marketer* creates the TeleMinx brand, branded content, and manages advertising and social media campaigns.
 
 *A Borrower* application to the network must include specific terms like interest rates and settlement details.
 
