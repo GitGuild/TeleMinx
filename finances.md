@@ -2,17 +2,17 @@
 
 ## Lending Thesis 
 
-TeleMinx will only make insured loans to underwrite contracts to buy and sell telecom credits or minutes.
+TeleMinx will only make loans to underwrite contracts to buy and sell telecom credits or minutes.
 
 Minutes are calculated as minutes per call to any destination or route worldwide. There is no buying or consignment stock - minutes are bought and sold in real time.
 
-The borrower will utilize the funds to trade minutes via telecom exchanges (e.g. Route trader, Verteco, DSX, etc.) and/or via insured suppliers.
+The the borrower utilizes one or more switch for implementing VOIP (Voice Over Internet Protocol) to process the calling traffic.
+
+The borrower must be insured. The borrower will utilize the funds to trade minutes via insured telecom exchanges (e.g. Route trader, Verteco, DSX, etc.) and/or via insured counterparties.
 
 The borrower can employ various strategies to negotiate and execute deals which include directs, trade credit and swaps. A direct deal is a point to point solution that delivers a very stable route and with a substantial margin advantage. Trading credit can be attained based on the trading amount of the previous day which allows the borrower to establish and grow relationships with larger entities. A swap deal is a trade of equitable minutes or minute value where minimal to no money is required for settlement between trading counterparties at the end of the trading period, which mitigates cash flow pressure.
 
 To mitigate risk, the borrower will never buy unless the route has been pre-sold.  Thus, no stock shall accumulate nor consequential penalties incurred should traffic fail or stop for any reason and no commitment beyond the real time traffic running will be made.
-
-The the borrower utilizes one or more switch for implementing VOIP (Voice Over Internet Protocol) to process the calling traffic.
 
 ## XTM token
 
