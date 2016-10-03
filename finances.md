@@ -34,7 +34,7 @@ The ICO is scheduled in sync with the code releases, and upon completing the ICO
 
 *Remainder split 80:20 between Token Holders and Administrator*
 
-|          | Interest Payments | Service Provider sub-total | Administrator | Auditor  | Council | Developer | Marketer | Token Holder |
+|          | Dividend Payments | Service Provider sub-total | Administrator | Auditor  | Council | Developer | Marketer | Token Holder |
 |----------|-------------------|------------------------|---------------|----------|---------|-----------|----------|--------------|
 | Annually | $3,374,500        | $1,025,900             | $884,900      | $100,000 | $10,000 | $25,000   | $6,000   | $2,348,600   |
 
@@ -53,6 +53,14 @@ The Marketer has asked to be paid $15,000 for the launch and ICO push, then $6,0
 
 ![Projection](http://i.imgur.com/yICUqQ8.jpg)
 
+## Dividends
+
+Depending on the underlying contracts, dividends will be disbursed ranging from a quarterly to yearly basis, totalling 12%/year.
+
+There is to be an 18 month post-ICO window of operation prior to the first dividend disbursement.
+
+Dividend declarations will include an ex-dividend date.
+
 ## ICO
 
 Operational funding for TeleMinx will come from a one month Initial Coin Offering (ICO). During this period, people will be able to commit funds into escrow. If the target of 20,000,000 CCUSD is raised by the end of the ICO, then the contract will execute and the funds will be released to the Administrator to begin operations. If the target is not reached, the funds will be released from escrow back into the possession of the original owners.
@@ -61,11 +69,13 @@ Operational funding for TeleMinx will come from a one month Initial Coin Offerin
 
 | Price        | XTM supply    |
 |--------------|---------------|
+| 0.9000 CCUSD | 4,000,000 XTM |
 | 0.9500 CCUSD | 4,000,000 XTM |
-| 0.9750 CCUSD | 4,000,000 XTM |
 | 1.0000 CCUSD | 4,000,000 XTM |
-| 1.0250 CCUSD | 4,000,000 XTM |
 | 1.0500 CCUSD | 4,000,000 XTM |
+| 1.1000 CCUSD | 4,000,000 XTM |
+
+The threshold for executing the contract is 12,000,000 XTM sold. That is, once the 12,000,000th XTM is bought, the CCUSD raised will be released to the TeleMinx Administrator and XTM holders can place ask or market sell orders on the CCUSD/XTM orderbook.
 
 Utilisation of the GuildExchange for the ICO will enable efficient capital sourcing of assets other than CCUSD, e.g. BTC and DASH.
 
