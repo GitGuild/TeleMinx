@@ -6,7 +6,7 @@ TeleMinx will only make loans to underwrite contracts to buy and sell telecom cr
 
 Minutes are calculated as minutes per call to any destination or route worldwide. There is no buying or consignment stock - minutes are bought and sold in real time.
 
-The the borrower utilizes one or more switch for implementing VOIP (Voice Over Internet Protocol) to process the calling traffic.
+The borrower utilizes one or more switch for implementing VOIP (Voice Over Internet Protocol) to process the calling traffic.
 
 The borrower must be insured. The borrower will utilize the funds to trade minutes via insured telecom exchanges (e.g. Route trader, Verteco, DSX, etc.) and/or via insured counterparties.
 
