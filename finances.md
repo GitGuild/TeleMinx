@@ -14,6 +14,16 @@ The borrower can employ various strategies to negotiate and execute deals which 
 
 To mitigate risk, the borrower will never buy unless the route has been pre-sold.  Thus, no stock shall accumulate nor consequential penalties incurred should traffic fail or stop for any reason and no commitment beyond the real time traffic running will be made.
 
+### Risk Mitigation
+
+The minimum qualifying amount for a TeleMinx loan contract is 1,000,000 CCUSD.
+
+The maximum qualifying amount for a TeleMinx loan contract is 50% of the CCUSD TeleMinx has raised. That is, if TeleMinx has raised 20,000,000 CCUSD, the maximum loan amount is 10,000,000 CCUSD.
+
+The lower bound of this range pursues to establish a reasonably substantial barrier to entry to render more effective the evaluation time and resources spent by XTM token holders
+
+The upper bound of this range renders diversification as a risk management technique an imperative.
+
 ## XTM token
 
 Teleminx will issue a cryptograhic token utilizing the Gitguild Blockchain Protocol.
@@ -63,7 +73,7 @@ Dividend declarations will include an ex-dividend date.
 
 ## ICO
 
-Operational funding for TeleMinx will come from a one month Initial Coin Offering (ICO). During this period, people will be able to commit funds into escrow. If the target of 20,000,000 CCUSD is raised by the end of the ICO, then the contract will execute and the funds will be released to the Administrator to begin operations. If the target is not reached, the funds will be released from escrow back into the possession of the original owners.
+Operational funding for TeleMinx will come from a 60 day Initial Coin Offering (ICO). During this period, people will be able to commit funds into escrow. If the target of 20,000,000 CCUSD is raised by the end of the ICO, then the contract will execute and the funds will be released to the Administrator to begin operations. If the target is not reached, the funds will be released from escrow back into the possession of the original owners.
 
 20,000,000 XTM will be issued and placed as ask limit orders on the CCUSD/XTM GuildExchange for a target total raise of 20,000,000 CCUSD. The XTM ask limit orders will be placed in 5 tranches of 4,000,000 XTM each on the CCUSD/XTM orderbook at the following price points:
 
